@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mytitle="Spigot Server Manager"
+mytitle="Minecraft Server Manager"
 echo -e '\033]2;'$mytitle'\007'
 
 while true
