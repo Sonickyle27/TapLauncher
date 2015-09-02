@@ -9,6 +9,8 @@ clear
 echo "[INFO]: Starting server..."
 echo
 #Type the command that you want to be executed here.
+#The defaunt command launches "Spigot.jar" and gives it 1GB of memory.
+#Change the Spigot.jar accordingly if it has a different name or isn't located in the same folder as this script.
 java -Xmx1024M -Xms1024M -jar Spigot.jar
 echo
 echo "[INFO]: Server was either stopped manually, or crashed."
