@@ -4,7 +4,7 @@ mytitle="Minecraft Server Manager"
 echo -e '\033]2;'$mytitle'\007'
 
 while true
-do
+do #It loops forever! Basically, if the server exits or crashes, it'll autorestart unless you Ctrl+C.
 clear
 echo "[INFO]: Starting server..."
 echo
