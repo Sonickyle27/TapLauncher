@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mytitle="Minecraft Server Manager"
+mytitle="Server Manager [TapLauncher Alpha]"
 echo -e '\033]2;'$mytitle'\007'
 
 whiptail --yesno "Do you want to start the server? To safely stop the server, you should type 'stop' at the server command prompt and then press Ctrl+C when told to." 10 50
