@@ -8,4 +8,4 @@ Originally, this was being used with my own server, but I've decided to share th
 
 +Java
 
-+Tailwhip
++Whiptail
