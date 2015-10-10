@@ -10,7 +10,7 @@ do #It loops forever! Basically, if the server exits or crashes, it'll autoresta
 clear
 echo "[INFO]: Starting server..."
 echo
-#Type the command that you want to be executed here.
+#Type the command that you want to be executed below these comments.
 #The defaunt command launches "Spigot.jar" and gives it 1GB of memory.
 #Change the Spigot.jar accordingly if it has a different name or isn't located in the same folder as this script.
 java -Xmx1024M -Xms1024M -jar Spigot.jar
